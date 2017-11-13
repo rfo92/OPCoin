@@ -1,0 +1,9 @@
+Building OPCoin
+
+See doc/readme-qt.rst for instructions on building OPCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of OPCoin.
+
+See doc/build-*.txt for instructions on building OPCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of OPCoin.
